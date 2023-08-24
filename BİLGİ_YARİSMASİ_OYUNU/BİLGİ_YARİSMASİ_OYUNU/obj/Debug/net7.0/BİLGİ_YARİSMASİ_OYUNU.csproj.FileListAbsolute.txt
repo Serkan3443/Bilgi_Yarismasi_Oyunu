@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\BİLGİ_YARİSMASİ_OYUNU\BİLGİ_YARİSMASİ_OYUNU\bin\Debug\net7.0\BİLGİ_YARİSMASİ_OYUNU.exe
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\BİLGİ_YARİSMASİ_OYUNU\BİLGİ_YARİSMASİ_OYUNU\bin\Debug\net7.0\BİLGİ_YARİSMASİ_OYUNU.deps.json
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\BİLGİ_YARİSMASİ_OYUNU\BİLGİ_YARİSMASİ_OYUNU\bin\Debug\net7.0\BİLGİ_YARİSMASİ_OYUNU.runtimeconfig.json
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\BİLGİ_YARİSMASİ_OYUNU\BİLGİ_YARİSMASİ_OYUNU\bin\Debug\net7.0\BİLGİ_YARİSMASİ_OYUNU.dll
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\BİLGİ_YARİSMASİ_OYUNU\BİLGİ_YARİSMASİ_OYUNU\bin\Debug\net7.0\BİLGİ_YARİSMASİ_OYUNU.pdb
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\BİLGİ_YARİSMASİ_OYUNU\BİLGİ_YARİSMASİ_OYUNU\obj\Debug\net7.0\BİLGİ_YARİSMASİ_OYUNU.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\BİLGİ_YARİSMASİ_OYUNU\BİLGİ_YARİSMASİ_OYUNU\obj\Debug\net7.0\BİLGİ_YARİSMASİ_OYUNU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\BİLGİ_YARİSMASİ_OYUNU\BİLGİ_YARİSMASİ_OYUNU\obj\Debug\net7.0\BİLGİ_YARİSMASİ_OYUNU.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\BİLGİ_YARİSMASİ_OYUNU\BİLGİ_YARİSMASİ_OYUNU\obj\Debug\net7.0\BİLGİ_YARİSMASİ_OYUNU.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\BİLGİ_YARİSMASİ_OYUNU\BİLGİ_YARİSMASİ_OYUNU\obj\Debug\net7.0\BİLGİ_YARİSMASİ_OYUNU.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\BİLGİ_YARİSMASİ_OYUNU\BİLGİ_YARİSMASİ_OYUNU\obj\Debug\net7.0\BİLGİ_YARİSMASİ_OYUNU.dll
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\BİLGİ_YARİSMASİ_OYUNU\BİLGİ_YARİSMASİ_OYUNU\obj\Debug\net7.0\refint\BİLGİ_YARİSMASİ_OYUNU.dll
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\BİLGİ_YARİSMASİ_OYUNU\BİLGİ_YARİSMASİ_OYUNU\obj\Debug\net7.0\BİLGİ_YARİSMASİ_OYUNU.pdb
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\BİLGİ_YARİSMASİ_OYUNU\BİLGİ_YARİSMASİ_OYUNU\obj\Debug\net7.0\BİLGİ_YARİSMASİ_OYUNU.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\BİLGİ_YARİSMASİ_OYUNU\BİLGİ_YARİSMASİ_OYUNU\obj\Debug\net7.0\ref\BİLGİ_YARİSMASİ_OYUNU.dll
